@@ -6,6 +6,7 @@ public class SimpleMain {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello! How are you?");
+		System.out.println("I am fine!");
 
 	}
 
