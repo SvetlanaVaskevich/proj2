@@ -7,6 +7,7 @@ public class SimpleMain {
 		
 		System.out.println("Hello! How are you?");
 		System.out.println("I am fine!");
+		System.out.println("It is wonderful weather");
 
 	}
 
